@@ -1,0 +1,1 @@
+# hovertranslate-privacy
